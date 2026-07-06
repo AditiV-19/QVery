@@ -1,0 +1,9 @@
+.vscode
+unused/
+output.json
+embeddings.joblib
+videos/
+audios/
+jsons/
+response.txt
+prompt.txt
