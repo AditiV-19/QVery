@@ -7,3 +7,5 @@ audios/
 jsons/
 response.txt
 prompt.txt
+__pycache__
+newjsons/

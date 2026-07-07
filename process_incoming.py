@@ -21,7 +21,6 @@ def inference(prompt):
         "stream": False
     })
     response = r.json()
-    print(response)
     return response
 
 df = joblib.load('embeddings.joblib')
